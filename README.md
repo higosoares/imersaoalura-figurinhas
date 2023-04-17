@@ -1,1 +1,2 @@
-# imersaoalura-figurinhas
+# Imersão Alura Java - Figurinhas
+Foi realizado no dia 27/03 a 31/03 a Imersão da Alura de Java. Nesse repositório se encontra um gerador de figurinhas que foi feito na aula. É consumido os dados json de algum endpoint que contém informações de séries, filmes e etc. No enum API, temos as oções para cada endpoint assim como seu extrator de conteúdo json. Assim que rodar o projeto são criadas imagens em /imagens.
